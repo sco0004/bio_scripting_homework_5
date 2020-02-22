@@ -28,4 +28,4 @@ echo Increment operator when applied on "a" results in a = $a
 echo Decrement operator when applied on "b" results in b = $b
 
 ((--c))
-echo What was the default value \ of c if its value is now $c\?
+echo What was the default value \ of c if its decrement value is now $c\?
