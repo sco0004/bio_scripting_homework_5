@@ -19,7 +19,7 @@ div=$((a / b))
 echo Division of a and b result in a whole number of $div
 
 mod=$((a % b))
-echo Modulus of a and b are $mod
+echo Thew remainder when dividing a and b is $mod
 
 ((++a))
 echo Increment operator when applied on "a" results into a = $a
