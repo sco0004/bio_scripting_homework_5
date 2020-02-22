@@ -22,10 +22,10 @@ mod=$((a % b))
 echo Thew remainder when dividing a and b is $mod
 
 ((++a))
-echo Increment operator when applied on "a" results into a = $a
+echo Increment operator when applied on "a" results in a = $a
 
 ((--b))
-echo Decrement operator when applied on "b" results into b = $b
+echo Decrement operator when applied on "b" results in b = $b
 
 ((--c))
 echo What was the default value \ of c if its value is now $c\?
