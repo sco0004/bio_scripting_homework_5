@@ -1,0 +1,51 @@
+It is 11:59:15 on Feb22.
+
+The following users are logged on:
+usabmw
+uahkxc
+aubmxa
+aubcls44
+aubcls72
+aubszb
+aubmxa
+aubmxa
+ualmab
+usaafh
+aubmxa
+ualcls19
+usadxh
+asndcy
+aubmes
+
+Uptime as of Feb22:  11:59:16 up 66 days, 19:23, 15 users,  load average: 2.25, 2.64, 2.44.
+
+_________________________________________________________________________________________
+
+
+
+It is 13:03:16 on Feb22.
+
+The following users are logged on:
+usabmw
+uahkxc
+aubmxa
+aubcls72
+aubcls44
+aubcls72
+aubszb
+aubmxa
+aubmxa
+ualmab
+usaafh
+aubmxa
+ualcls19
+usadxh
+asndcy
+aubmes
+
+Uptime as of Feb22:  13:03:17 up 66 days, 20:27, 16 users,  load average: 2.51, 2.44, 2.33.
+
+_________________________________________________________________________________________
+
+
+
