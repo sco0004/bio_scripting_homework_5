@@ -16,7 +16,7 @@ mul=$((a * b))
 echo Multiplication of a and b are $mul
 
 div=$((a / b))
-echo Division of a and b are $div
+echo Division of a and b result in a whole number of $div
 
 mod=$((a % b))
 echo Modulus of a and b are $mod
