@@ -18,7 +18,6 @@ print("You entered", b, "which is a", type(b))
 print("What is", a, "now?", type(a))
 print("What is", b, "now?", type(a))
 
-
 total = a + b
 print("a + b =", total, ", which is a", type(total))
 
@@ -59,12 +58,12 @@ print("Now \"b\" equals", b, "and is a", type(b))
 
 
 total = a + b
- print("a + b =", total, ", which is a", type(total))
+print("a + b =", total, ", which is a", type(total))
 
 difference = a - b
 print("a - b =", difference, ", which is a", type(difference))
 
-    product = a * b
+product = a * b
 print("a * b =", product, ", which is a", type(product))
 
 quotient = a / b
