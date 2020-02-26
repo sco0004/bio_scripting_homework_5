@@ -1,14 +1,13 @@
 #!/usr/bin/env python3
 
 # Reading data from the user's input
-a = input("Enter a : ")
+a = int(input("Enter a : "))
 
 print("You entered", a, "which is a", type(a))
 
-b = input("Enter b : ")
+b = int(input("Enter b : "))
 
 print("You entered", b, "which is a", type(b))
-
 
 #######################################################################
 # HINT: why would we be checking what type a and b are again?
@@ -16,7 +15,7 @@ print("You entered", b, "which is a", type(b))
 #######################################################################
 
 print("What is", a, "now?", type(a))
-print("What is", b, "now?", type(a))
+print("What is", b, "now?", type(b))
 
 total = a + b
 print("a + b =", total, ", which is a", type(total))
@@ -73,7 +72,7 @@ floor_quotient = a // b
 print("a // b =", floor_quotient, ", which is a", type(floor_quotient))
 
 remainder = a % b
-print("a % b =", remainder, " which is a," type(remainder))
+print("a % b =", remainder, " which is a", type(remainder))
 
 power = a ** b
 print("a ** b =",
